@@ -386,8 +386,7 @@ st.sidebar.markdown(
 
 with st.sidebar:
     image_path = (
-        r"C:\Pengwining\Proyek analisis data\proyek_analisis_data\data\sepeda3.jpg"
-    )
+       "https://raw.github.com/ejapten/bike_sharing_dicoding/main/data/sepeda3.jpg")
     st.image(image_path, caption="Penyewaan sepeda", use_container_width=True)
     start_date = st.sidebar.date_input("Start Date", min_date)
     end_date = st.sidebar.date_input("End Date", max_date)
