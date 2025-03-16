@@ -1,0 +1,732 @@
+dteday,season,yr,mnth,holiday,weekday,workingday,weathersit,casual,registered,cnt,season_holiday
+2011-01-01,Spring,2011,January,not holiday,saturday,weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",331,654,985,Spring_not holiday
+2011-01-02,Spring,2011,January,not holiday,sunday,weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",131,670,801,Spring_not holiday
+2011-01-03,Spring,2011,January,not holiday,monday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",120,1229,1349,Spring_not holiday
+2011-01-04,Spring,2011,January,not holiday,tuesday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",108,1454,1562,Spring_not holiday
+2011-01-05,Spring,2011,January,not holiday,wednesday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",82,1518,1600,Spring_not holiday
+2011-01-06,Spring,2011,January,not holiday,thursday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",88,1518,1606,Spring_not holiday
+2011-01-07,Spring,2011,January,not holiday,friday,not weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",148,1362,1510,Spring_not holiday
+2011-01-08,Spring,2011,January,not holiday,saturday,weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",68,891,959,Spring_not holiday
+2011-01-09,Spring,2011,January,not holiday,sunday,weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",54,768,822,Spring_not holiday
+2011-01-10,Spring,2011,January,not holiday,monday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",41,1280,1321,Spring_not holiday
+2011-01-11,Spring,2011,January,not holiday,tuesday,not weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",43,1220,1263,Spring_not holiday
+2011-01-12,Spring,2011,January,not holiday,wednesday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",25,1137,1162,Spring_not holiday
+2011-01-13,Spring,2011,January,not holiday,thursday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",38,1368,1406,Spring_not holiday
+2011-01-14,Spring,2011,January,not holiday,friday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",54,1367,1421,Spring_not holiday
+2011-01-15,Spring,2011,January,not holiday,saturday,weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",222,1026,1248,Spring_not holiday
+2011-01-16,Spring,2011,January,not holiday,sunday,weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",251,953,1204,Spring_not holiday
+2011-01-17,Spring,2011,January,holiday,monday,weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",117,883,1000,Spring_holiday
+2011-01-18,Spring,2011,January,not holiday,tuesday,not weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",9,674,683,Spring_not holiday
+2011-01-19,Spring,2011,January,not holiday,wednesday,not weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",78,1572,1650,Spring_not holiday
+2011-01-20,Spring,2011,January,not holiday,thursday,not weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",83,1844,1927,Spring_not holiday
+2011-01-21,Spring,2011,January,not holiday,friday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",75,1468,1543,Spring_not holiday
+2011-01-22,Spring,2011,January,not holiday,saturday,weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",93,888,981,Spring_not holiday
+2011-01-23,Spring,2011,January,not holiday,sunday,weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",150,836,986,Spring_not holiday
+2011-01-24,Spring,2011,January,not holiday,monday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",86,1330,1416,Spring_not holiday
+2011-01-25,Spring,2011,January,not holiday,tuesday,not weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",186,1799,1985,Spring_not holiday
+2011-01-26,Spring,2011,January,not holiday,wednesday,not weekend,"Light Snow, Light Rain + Thunderstorm + Scattered clouds, Light Rain + Scattered clouds",34,472,506,Spring_not holiday
+2011-01-27,Spring,2011,January,not holiday,thursday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",15,416,431,Spring_not holiday
+2011-01-28,Spring,2011,January,not holiday,friday,not weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",38,1129,1167,Spring_not holiday
+2011-01-29,Spring,2011,January,not holiday,saturday,weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",123,975,1098,Spring_not holiday
+2011-01-30,Spring,2011,January,not holiday,sunday,weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",140,956,1096,Spring_not holiday
+2011-01-31,Spring,2011,January,not holiday,monday,not weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",42,1459,1501,Spring_not holiday
+2011-02-01,Spring,2011,February,not holiday,tuesday,not weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",47,1313,1360,Spring_not holiday
+2011-02-02,Spring,2011,February,not holiday,wednesday,not weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",72,1454,1526,Spring_not holiday
+2011-02-03,Spring,2011,February,not holiday,thursday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",61,1489,1550,Spring_not holiday
+2011-02-04,Spring,2011,February,not holiday,friday,not weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",88,1620,1708,Spring_not holiday
+2011-02-05,Spring,2011,February,not holiday,saturday,weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",100,905,1005,Spring_not holiday
+2011-02-06,Spring,2011,February,not holiday,sunday,weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",354,1269,1623,Spring_not holiday
+2011-02-07,Spring,2011,February,not holiday,monday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",120,1592,1712,Spring_not holiday
+2011-02-08,Spring,2011,February,not holiday,tuesday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",64,1466,1530,Spring_not holiday
+2011-02-09,Spring,2011,February,not holiday,wednesday,not weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",53,1552,1605,Spring_not holiday
+2011-02-10,Spring,2011,February,not holiday,thursday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",47,1491,1538,Spring_not holiday
+2011-02-11,Spring,2011,February,not holiday,friday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",149,1597,1746,Spring_not holiday
+2011-02-12,Spring,2011,February,not holiday,saturday,weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",288,1184,1472,Spring_not holiday
+2011-02-13,Spring,2011,February,not holiday,sunday,weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",397,1192,1589,Spring_not holiday
+2011-02-14,Spring,2011,February,not holiday,monday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",208,1705,1913,Spring_not holiday
+2011-02-15,Spring,2011,February,not holiday,tuesday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",140,1675,1815,Spring_not holiday
+2011-02-16,Spring,2011,February,not holiday,wednesday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",218,1897,2115,Spring_not holiday
+2011-02-17,Spring,2011,February,not holiday,thursday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",259,2216,2475,Spring_not holiday
+2011-02-18,Spring,2011,February,not holiday,friday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",579,2348,2927,Spring_not holiday
+2011-02-19,Spring,2011,February,not holiday,saturday,weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",532,1103,1635,Spring_not holiday
+2011-02-20,Spring,2011,February,not holiday,sunday,weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",639,1173,1812,Spring_not holiday
+2011-02-21,Spring,2011,February,holiday,monday,weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",195,912,1107,Spring_holiday
+2011-02-22,Spring,2011,February,not holiday,tuesday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",74,1376,1450,Spring_not holiday
+2011-02-23,Spring,2011,February,not holiday,wednesday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",139,1778,1917,Spring_not holiday
+2011-02-24,Spring,2011,February,not holiday,thursday,not weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",100,1707,1807,Spring_not holiday
+2011-02-25,Spring,2011,February,not holiday,friday,not weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",120,1341,1461,Spring_not holiday
+2011-02-26,Spring,2011,February,not holiday,saturday,weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",424,1545,1969,Spring_not holiday
+2011-02-27,Spring,2011,February,not holiday,sunday,weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",694,1708,2402,Spring_not holiday
+2011-02-28,Spring,2011,February,not holiday,monday,not weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",81,1365,1446,Spring_not holiday
+2011-03-01,Spring,2011,March,not holiday,tuesday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",137,1714,1851,Spring_not holiday
+2011-03-02,Spring,2011,March,not holiday,wednesday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",231,1903,2134,Spring_not holiday
+2011-03-03,Spring,2011,March,not holiday,thursday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",123,1562,1685,Spring_not holiday
+2011-03-04,Spring,2011,March,not holiday,friday,not weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",214,1730,1944,Spring_not holiday
+2011-03-05,Spring,2011,March,not holiday,saturday,weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",640,1437,2077,Spring_not holiday
+2011-03-06,Spring,2011,March,not holiday,sunday,weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",114,491,605,Spring_not holiday
+2011-03-07,Spring,2011,March,not holiday,monday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",244,1628,1872,Spring_not holiday
+2011-03-08,Spring,2011,March,not holiday,tuesday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",316,1817,2133,Spring_not holiday
+2011-03-09,Spring,2011,March,not holiday,wednesday,not weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",191,1700,1891,Spring_not holiday
+2011-03-10,Spring,2011,March,not holiday,thursday,not weekend,"Light Snow, Light Rain + Thunderstorm + Scattered clouds, Light Rain + Scattered clouds",46,577,623,Spring_not holiday
+2011-03-11,Spring,2011,March,not holiday,friday,not weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",247,1730,1977,Spring_not holiday
+2011-03-12,Spring,2011,March,not holiday,saturday,weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",724,1408,2132,Spring_not holiday
+2011-03-13,Spring,2011,March,not holiday,sunday,weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",982,1435,2417,Spring_not holiday
+2011-03-14,Spring,2011,March,not holiday,monday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",359,1687,2046,Spring_not holiday
+2011-03-15,Spring,2011,March,not holiday,tuesday,not weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",289,1767,2056,Spring_not holiday
+2011-03-16,Spring,2011,March,not holiday,wednesday,not weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",321,1871,2192,Spring_not holiday
+2011-03-17,Spring,2011,March,not holiday,thursday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",424,2320,2744,Spring_not holiday
+2011-03-18,Spring,2011,March,not holiday,friday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",884,2355,3239,Spring_not holiday
+2011-03-19,Spring,2011,March,not holiday,saturday,weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",1424,1693,3117,Spring_not holiday
+2011-03-20,Spring,2011,March,not holiday,sunday,weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",1047,1424,2471,Spring_not holiday
+2011-03-21,Summer,2011,March,not holiday,monday,not weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",401,1676,2077,Summer_not holiday
+2011-03-22,Summer,2011,March,not holiday,tuesday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",460,2243,2703,Summer_not holiday
+2011-03-23,Summer,2011,March,not holiday,wednesday,not weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",203,1918,2121,Summer_not holiday
+2011-03-24,Summer,2011,March,not holiday,thursday,not weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",166,1699,1865,Summer_not holiday
+2011-03-25,Summer,2011,March,not holiday,friday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",300,1910,2210,Summer_not holiday
+2011-03-26,Summer,2011,March,not holiday,saturday,weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",981,1515,2496,Summer_not holiday
+2011-03-27,Summer,2011,March,not holiday,sunday,weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",472,1221,1693,Summer_not holiday
+2011-03-28,Summer,2011,March,not holiday,monday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",222,1806,2028,Summer_not holiday
+2011-03-29,Summer,2011,March,not holiday,tuesday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",317,2108,2425,Summer_not holiday
+2011-03-30,Summer,2011,March,not holiday,wednesday,not weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",168,1368,1536,Summer_not holiday
+2011-03-31,Summer,2011,March,not holiday,thursday,not weekend,"Light Snow, Light Rain + Thunderstorm + Scattered clouds, Light Rain + Scattered clouds",179,1506,1685,Summer_not holiday
+2011-04-01,Summer,2011,April,not holiday,friday,not weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",307,1920,2227,Summer_not holiday
+2011-04-02,Summer,2011,April,not holiday,saturday,weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",898,1354,2252,Summer_not holiday
+2011-04-03,Summer,2011,April,not holiday,sunday,weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",1651,1598,3249,Summer_not holiday
+2011-04-04,Summer,2011,April,not holiday,monday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",734,2381,3115,Summer_not holiday
+2011-04-05,Summer,2011,April,not holiday,tuesday,not weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",167,1628,1795,Summer_not holiday
+2011-04-06,Summer,2011,April,not holiday,wednesday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",413,2395,2808,Summer_not holiday
+2011-04-07,Summer,2011,April,not holiday,thursday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",571,2570,3141,Summer_not holiday
+2011-04-08,Summer,2011,April,not holiday,friday,not weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",172,1299,1471,Summer_not holiday
+2011-04-09,Summer,2011,April,not holiday,saturday,weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",879,1576,2455,Summer_not holiday
+2011-04-10,Summer,2011,April,not holiday,sunday,weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",1188,1707,2895,Summer_not holiday
+2011-04-11,Summer,2011,April,not holiday,monday,not weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",855,2493,3348,Summer_not holiday
+2011-04-12,Summer,2011,April,not holiday,tuesday,not weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",257,1777,2034,Summer_not holiday
+2011-04-13,Summer,2011,April,not holiday,wednesday,not weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",209,1953,2162,Summer_not holiday
+2011-04-14,Summer,2011,April,not holiday,thursday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",529,2738,3267,Summer_not holiday
+2011-04-15,Summer,2011,April,holiday,friday,weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",642,2484,3126,Summer_holiday
+2011-04-16,Summer,2011,April,not holiday,saturday,weekend,"Light Snow, Light Rain + Thunderstorm + Scattered clouds, Light Rain + Scattered clouds",121,674,795,Summer_not holiday
+2011-04-17,Summer,2011,April,not holiday,sunday,weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",1558,2186,3744,Summer_not holiday
+2011-04-18,Summer,2011,April,not holiday,monday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",669,2760,3429,Summer_not holiday
+2011-04-19,Summer,2011,April,not holiday,tuesday,not weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",409,2795,3204,Summer_not holiday
+2011-04-20,Summer,2011,April,not holiday,wednesday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",613,3331,3944,Summer_not holiday
+2011-04-21,Summer,2011,April,not holiday,thursday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",745,3444,4189,Summer_not holiday
+2011-04-22,Summer,2011,April,not holiday,friday,not weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",177,1506,1683,Summer_not holiday
+2011-04-23,Summer,2011,April,not holiday,saturday,weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",1462,2574,4036,Summer_not holiday
+2011-04-24,Summer,2011,April,not holiday,sunday,weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",1710,2481,4191,Summer_not holiday
+2011-04-25,Summer,2011,April,not holiday,monday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",773,3300,4073,Summer_not holiday
+2011-04-26,Summer,2011,April,not holiday,tuesday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",678,3722,4400,Summer_not holiday
+2011-04-27,Summer,2011,April,not holiday,wednesday,not weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",547,3325,3872,Summer_not holiday
+2011-04-28,Summer,2011,April,not holiday,thursday,not weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",569,3489,4058,Summer_not holiday
+2011-04-29,Summer,2011,April,not holiday,friday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",878,3717,4595,Summer_not holiday
+2011-04-30,Summer,2011,April,not holiday,saturday,weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",1965,3347,5312,Summer_not holiday
+2011-05-01,Summer,2011,May,not holiday,sunday,weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",1138,2213,3351,Summer_not holiday
+2011-05-02,Summer,2011,May,not holiday,monday,not weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",847,3554,4401,Summer_not holiday
+2011-05-03,Summer,2011,May,not holiday,tuesday,not weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",603,3848,4451,Summer_not holiday
+2011-05-04,Summer,2011,May,not holiday,wednesday,not weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",255,2378,2633,Summer_not holiday
+2011-05-05,Summer,2011,May,not holiday,thursday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",614,3819,4433,Summer_not holiday
+2011-05-06,Summer,2011,May,not holiday,friday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",894,3714,4608,Summer_not holiday
+2011-05-07,Summer,2011,May,not holiday,saturday,weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",1612,3102,4714,Summer_not holiday
+2011-05-08,Summer,2011,May,not holiday,sunday,weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",1401,2932,4333,Summer_not holiday
+2011-05-09,Summer,2011,May,not holiday,monday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",664,3698,4362,Summer_not holiday
+2011-05-10,Summer,2011,May,not holiday,tuesday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",694,4109,4803,Summer_not holiday
+2011-05-11,Summer,2011,May,not holiday,wednesday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",550,3632,4182,Summer_not holiday
+2011-05-12,Summer,2011,May,not holiday,thursday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",695,4169,4864,Summer_not holiday
+2011-05-13,Summer,2011,May,not holiday,friday,not weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",692,3413,4105,Summer_not holiday
+2011-05-14,Summer,2011,May,not holiday,saturday,weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",902,2507,3409,Summer_not holiday
+2011-05-15,Summer,2011,May,not holiday,sunday,weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",1582,2971,4553,Summer_not holiday
+2011-05-16,Summer,2011,May,not holiday,monday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",773,3185,3958,Summer_not holiday
+2011-05-17,Summer,2011,May,not holiday,tuesday,not weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",678,3445,4123,Summer_not holiday
+2011-05-18,Summer,2011,May,not holiday,wednesday,not weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",536,3319,3855,Summer_not holiday
+2011-05-19,Summer,2011,May,not holiday,thursday,not weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",735,3840,4575,Summer_not holiday
+2011-05-20,Summer,2011,May,not holiday,friday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",909,4008,4917,Summer_not holiday
+2011-05-21,Summer,2011,May,not holiday,saturday,weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",2258,3547,5805,Summer_not holiday
+2011-05-22,Summer,2011,May,not holiday,sunday,weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",1576,3084,4660,Summer_not holiday
+2011-05-23,Summer,2011,May,not holiday,monday,not weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",836,3438,4274,Summer_not holiday
+2011-05-24,Summer,2011,May,not holiday,tuesday,not weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",659,3833,4492,Summer_not holiday
+2011-05-25,Summer,2011,May,not holiday,wednesday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",740,4238,4978,Summer_not holiday
+2011-05-26,Summer,2011,May,not holiday,thursday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",758,3919,4677,Summer_not holiday
+2011-05-27,Summer,2011,May,not holiday,friday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",871,3808,4679,Summer_not holiday
+2011-05-28,Summer,2011,May,not holiday,saturday,weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",2001,2757,4758,Summer_not holiday
+2011-05-29,Summer,2011,May,not holiday,sunday,weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",2355,2433,4788,Summer_not holiday
+2011-05-30,Summer,2011,May,holiday,monday,weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",1549,2549,4098,Summer_holiday
+2011-05-31,Summer,2011,May,not holiday,tuesday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",673,3309,3982,Summer_not holiday
+2011-06-01,Summer,2011,June,not holiday,wednesday,not weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",513,3461,3974,Summer_not holiday
+2011-06-02,Summer,2011,June,not holiday,thursday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",736,4232,4968,Summer_not holiday
+2011-06-03,Summer,2011,June,not holiday,friday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",898,4414,5312,Summer_not holiday
+2011-06-04,Summer,2011,June,not holiday,saturday,weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",1869,3473,5342,Summer_not holiday
+2011-06-05,Summer,2011,June,not holiday,sunday,weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",1685,3221,4906,Summer_not holiday
+2011-06-06,Summer,2011,June,not holiday,monday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",673,3875,4548,Summer_not holiday
+2011-06-07,Summer,2011,June,not holiday,tuesday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",763,4070,4833,Summer_not holiday
+2011-06-08,Summer,2011,June,not holiday,wednesday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",676,3725,4401,Summer_not holiday
+2011-06-09,Summer,2011,June,not holiday,thursday,not weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",563,3352,3915,Summer_not holiday
+2011-06-10,Summer,2011,June,not holiday,friday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",815,3771,4586,Summer_not holiday
+2011-06-11,Summer,2011,June,not holiday,saturday,weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",1729,3237,4966,Summer_not holiday
+2011-06-12,Summer,2011,June,not holiday,sunday,weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",1467,2993,4460,Summer_not holiday
+2011-06-13,Summer,2011,June,not holiday,monday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",863,4157,5020,Summer_not holiday
+2011-06-14,Summer,2011,June,not holiday,tuesday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",727,4164,4891,Summer_not holiday
+2011-06-15,Summer,2011,June,not holiday,wednesday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",769,4411,5180,Summer_not holiday
+2011-06-16,Summer,2011,June,not holiday,thursday,not weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",545,3222,3767,Summer_not holiday
+2011-06-17,Summer,2011,June,not holiday,friday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",863,3981,4844,Summer_not holiday
+2011-06-18,Summer,2011,June,not holiday,saturday,weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",1807,3312,5119,Summer_not holiday
+2011-06-19,Summer,2011,June,not holiday,sunday,weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",1639,3105,4744,Summer_not holiday
+2011-06-20,Summer,2011,June,not holiday,monday,not weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",699,3311,4010,Summer_not holiday
+2011-06-21,Fall,2011,June,not holiday,tuesday,not weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",774,4061,4835,Fall_not holiday
+2011-06-22,Fall,2011,June,not holiday,wednesday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",661,3846,4507,Fall_not holiday
+2011-06-23,Fall,2011,June,not holiday,thursday,not weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",746,4044,4790,Fall_not holiday
+2011-06-24,Fall,2011,June,not holiday,friday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",969,4022,4991,Fall_not holiday
+2011-06-25,Fall,2011,June,not holiday,saturday,weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",1782,3420,5202,Fall_not holiday
+2011-06-26,Fall,2011,June,not holiday,sunday,weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",1920,3385,5305,Fall_not holiday
+2011-06-27,Fall,2011,June,not holiday,monday,not weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",854,3854,4708,Fall_not holiday
+2011-06-28,Fall,2011,June,not holiday,tuesday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",732,3916,4648,Fall_not holiday
+2011-06-29,Fall,2011,June,not holiday,wednesday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",848,4377,5225,Fall_not holiday
+2011-06-30,Fall,2011,June,not holiday,thursday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",1027,4488,5515,Fall_not holiday
+2011-07-01,Fall,2011,July,not holiday,friday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",1246,4116,5362,Fall_not holiday
+2011-07-02,Fall,2011,July,not holiday,saturday,weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",2204,2915,5119,Fall_not holiday
+2011-07-03,Fall,2011,July,not holiday,sunday,weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",2282,2367,4649,Fall_not holiday
+2011-07-04,Fall,2011,July,holiday,monday,weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",3065,2978,6043,Fall_holiday
+2011-07-05,Fall,2011,July,not holiday,tuesday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",1031,3634,4665,Fall_not holiday
+2011-07-06,Fall,2011,July,not holiday,wednesday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",784,3845,4629,Fall_not holiday
+2011-07-07,Fall,2011,July,not holiday,thursday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",754,3838,4592,Fall_not holiday
+2011-07-08,Fall,2011,July,not holiday,friday,not weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",692,3348,4040,Fall_not holiday
+2011-07-09,Fall,2011,July,not holiday,saturday,weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",1988,3348,5336,Fall_not holiday
+2011-07-10,Fall,2011,July,not holiday,sunday,weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",1743,3138,4881,Fall_not holiday
+2011-07-11,Fall,2011,July,not holiday,monday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",723,3363,4086,Fall_not holiday
+2011-07-12,Fall,2011,July,not holiday,tuesday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",662,3596,4258,Fall_not holiday
+2011-07-13,Fall,2011,July,not holiday,wednesday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",748,3594,4342,Fall_not holiday
+2011-07-14,Fall,2011,July,not holiday,thursday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",888,4196,5084,Fall_not holiday
+2011-07-15,Fall,2011,July,not holiday,friday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",1318,4220,5538,Fall_not holiday
+2011-07-16,Fall,2011,July,not holiday,saturday,weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",2418,3505,5923,Fall_not holiday
+2011-07-17,Fall,2011,July,not holiday,sunday,weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",2006,3296,5302,Fall_not holiday
+2011-07-18,Fall,2011,July,not holiday,monday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",841,3617,4458,Fall_not holiday
+2011-07-19,Fall,2011,July,not holiday,tuesday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",752,3789,4541,Fall_not holiday
+2011-07-20,Fall,2011,July,not holiday,wednesday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",644,3688,4332,Fall_not holiday
+2011-07-21,Fall,2011,July,not holiday,thursday,not weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",632,3152,3784,Fall_not holiday
+2011-07-22,Fall,2011,July,not holiday,friday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",562,2825,3387,Fall_not holiday
+2011-07-23,Fall,2011,July,not holiday,saturday,weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",987,2298,3285,Fall_not holiday
+2011-07-24,Fall,2011,July,not holiday,sunday,weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",1050,2556,3606,Fall_not holiday
+2011-07-25,Fall,2011,July,not holiday,monday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",568,3272,3840,Fall_not holiday
+2011-07-26,Fall,2011,July,not holiday,tuesday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",750,3840,4590,Fall_not holiday
+2011-07-27,Fall,2011,July,not holiday,wednesday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",755,3901,4656,Fall_not holiday
+2011-07-28,Fall,2011,July,not holiday,thursday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",606,3784,4390,Fall_not holiday
+2011-07-29,Fall,2011,July,not holiday,friday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",670,3176,3846,Fall_not holiday
+2011-07-30,Fall,2011,July,not holiday,saturday,weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",1559,2916,4475,Fall_not holiday
+2011-07-31,Fall,2011,July,not holiday,sunday,weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",1524,2778,4302,Fall_not holiday
+2011-08-01,Fall,2011,August,not holiday,monday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",729,3537,4266,Fall_not holiday
+2011-08-02,Fall,2011,August,not holiday,tuesday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",801,4044,4845,Fall_not holiday
+2011-08-03,Fall,2011,August,not holiday,wednesday,not weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",467,3107,3574,Fall_not holiday
+2011-08-04,Fall,2011,August,not holiday,thursday,not weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",799,3777,4576,Fall_not holiday
+2011-08-05,Fall,2011,August,not holiday,friday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",1023,3843,4866,Fall_not holiday
+2011-08-06,Fall,2011,August,not holiday,saturday,weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",1521,2773,4294,Fall_not holiday
+2011-08-07,Fall,2011,August,not holiday,sunday,weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",1298,2487,3785,Fall_not holiday
+2011-08-08,Fall,2011,August,not holiday,monday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",846,3480,4326,Fall_not holiday
+2011-08-09,Fall,2011,August,not holiday,tuesday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",907,3695,4602,Fall_not holiday
+2011-08-10,Fall,2011,August,not holiday,wednesday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",884,3896,4780,Fall_not holiday
+2011-08-11,Fall,2011,August,not holiday,thursday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",812,3980,4792,Fall_not holiday
+2011-08-12,Fall,2011,August,not holiday,friday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",1051,3854,4905,Fall_not holiday
+2011-08-13,Fall,2011,August,not holiday,saturday,weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",1504,2646,4150,Fall_not holiday
+2011-08-14,Fall,2011,August,not holiday,sunday,weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",1338,2482,3820,Fall_not holiday
+2011-08-15,Fall,2011,August,not holiday,monday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",775,3563,4338,Fall_not holiday
+2011-08-16,Fall,2011,August,not holiday,tuesday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",721,4004,4725,Fall_not holiday
+2011-08-17,Fall,2011,August,not holiday,wednesday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",668,4026,4694,Fall_not holiday
+2011-08-18,Fall,2011,August,not holiday,thursday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",639,3166,3805,Fall_not holiday
+2011-08-19,Fall,2011,August,not holiday,friday,not weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",797,3356,4153,Fall_not holiday
+2011-08-20,Fall,2011,August,not holiday,saturday,weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",1914,3277,5191,Fall_not holiday
+2011-08-21,Fall,2011,August,not holiday,sunday,weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",1249,2624,3873,Fall_not holiday
+2011-08-22,Fall,2011,August,not holiday,monday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",833,3925,4758,Fall_not holiday
+2011-08-23,Fall,2011,August,not holiday,tuesday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",1281,4614,5895,Fall_not holiday
+2011-08-24,Fall,2011,August,not holiday,wednesday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",949,4181,5130,Fall_not holiday
+2011-08-25,Fall,2011,August,not holiday,thursday,not weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",435,3107,3542,Fall_not holiday
+2011-08-26,Fall,2011,August,not holiday,friday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",768,3893,4661,Fall_not holiday
+2011-08-27,Fall,2011,August,not holiday,saturday,weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",226,889,1115,Fall_not holiday
+2011-08-28,Fall,2011,August,not holiday,sunday,weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",1415,2919,4334,Fall_not holiday
+2011-08-29,Fall,2011,August,not holiday,monday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",729,3905,4634,Fall_not holiday
+2011-08-30,Fall,2011,August,not holiday,tuesday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",775,4429,5204,Fall_not holiday
+2011-08-31,Fall,2011,August,not holiday,wednesday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",688,4370,5058,Fall_not holiday
+2011-09-01,Fall,2011,September,not holiday,thursday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",783,4332,5115,Fall_not holiday
+2011-09-02,Fall,2011,September,not holiday,friday,not weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",875,3852,4727,Fall_not holiday
+2011-09-03,Fall,2011,September,not holiday,saturday,weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",1935,2549,4484,Fall_not holiday
+2011-09-04,Fall,2011,September,not holiday,sunday,weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",2521,2419,4940,Fall_not holiday
+2011-09-05,Fall,2011,September,holiday,monday,weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",1236,2115,3351,Fall_holiday
+2011-09-06,Fall,2011,September,not holiday,tuesday,not weekend,"Light Snow, Light Rain + Thunderstorm + Scattered clouds, Light Rain + Scattered clouds",204,2506,2710,Fall_not holiday
+2011-09-07,Fall,2011,September,not holiday,wednesday,not weekend,"Light Snow, Light Rain + Thunderstorm + Scattered clouds, Light Rain + Scattered clouds",118,1878,1996,Fall_not holiday
+2011-09-08,Fall,2011,September,not holiday,thursday,not weekend,"Light Snow, Light Rain + Thunderstorm + Scattered clouds, Light Rain + Scattered clouds",153,1689,1842,Fall_not holiday
+2011-09-09,Fall,2011,September,not holiday,friday,not weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",417,3127,3544,Fall_not holiday
+2011-09-10,Fall,2011,September,not holiday,saturday,weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",1750,3595,5345,Fall_not holiday
+2011-09-11,Fall,2011,September,not holiday,sunday,weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",1633,3413,5046,Fall_not holiday
+2011-09-12,Fall,2011,September,not holiday,monday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",690,4023,4713,Fall_not holiday
+2011-09-13,Fall,2011,September,not holiday,tuesday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",701,4062,4763,Fall_not holiday
+2011-09-14,Fall,2011,September,not holiday,wednesday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",647,4138,4785,Fall_not holiday
+2011-09-15,Fall,2011,September,not holiday,thursday,not weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",428,3231,3659,Fall_not holiday
+2011-09-16,Fall,2011,September,not holiday,friday,not weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",742,4018,4760,Fall_not holiday
+2011-09-17,Fall,2011,September,not holiday,saturday,weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",1434,3077,4511,Fall_not holiday
+2011-09-18,Fall,2011,September,not holiday,sunday,weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",1353,2921,4274,Fall_not holiday
+2011-09-19,Fall,2011,September,not holiday,monday,not weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",691,3848,4539,Fall_not holiday
+2011-09-20,Fall,2011,September,not holiday,tuesday,not weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",438,3203,3641,Fall_not holiday
+2011-09-21,Fall,2011,September,not holiday,wednesday,not weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",539,3813,4352,Fall_not holiday
+2011-09-22,Fall,2011,September,not holiday,thursday,not weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",555,4240,4795,Fall_not holiday
+2011-09-23,Winter,2011,September,not holiday,friday,not weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",258,2137,2395,Winter_not holiday
+2011-09-24,Winter,2011,September,not holiday,saturday,weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",1776,3647,5423,Winter_not holiday
+2011-09-25,Winter,2011,September,not holiday,sunday,weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",1544,3466,5010,Winter_not holiday
+2011-09-26,Winter,2011,September,not holiday,monday,not weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",684,3946,4630,Winter_not holiday
+2011-09-27,Winter,2011,September,not holiday,tuesday,not weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",477,3643,4120,Winter_not holiday
+2011-09-28,Winter,2011,September,not holiday,wednesday,not weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",480,3427,3907,Winter_not holiday
+2011-09-29,Winter,2011,September,not holiday,thursday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",653,4186,4839,Winter_not holiday
+2011-09-30,Winter,2011,September,not holiday,friday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",830,4372,5202,Winter_not holiday
+2011-10-01,Winter,2011,October,not holiday,saturday,weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",480,1949,2429,Winter_not holiday
+2011-10-02,Winter,2011,October,not holiday,sunday,weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",616,2302,2918,Winter_not holiday
+2011-10-03,Winter,2011,October,not holiday,monday,not weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",330,3240,3570,Winter_not holiday
+2011-10-04,Winter,2011,October,not holiday,tuesday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",486,3970,4456,Winter_not holiday
+2011-10-05,Winter,2011,October,not holiday,wednesday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",559,4267,4826,Winter_not holiday
+2011-10-06,Winter,2011,October,not holiday,thursday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",639,4126,4765,Winter_not holiday
+2011-10-07,Winter,2011,October,not holiday,friday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",949,4036,4985,Winter_not holiday
+2011-10-08,Winter,2011,October,not holiday,saturday,weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",2235,3174,5409,Winter_not holiday
+2011-10-09,Winter,2011,October,not holiday,sunday,weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",2397,3114,5511,Winter_not holiday
+2011-10-10,Winter,2011,October,holiday,monday,weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",1514,3603,5117,Winter_holiday
+2011-10-11,Winter,2011,October,not holiday,tuesday,not weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",667,3896,4563,Winter_not holiday
+2011-10-12,Winter,2011,October,not holiday,wednesday,not weekend,"Light Snow, Light Rain + Thunderstorm + Scattered clouds, Light Rain + Scattered clouds",217,2199,2416,Winter_not holiday
+2011-10-13,Winter,2011,October,not holiday,thursday,not weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",290,2623,2913,Winter_not holiday
+2011-10-14,Winter,2011,October,not holiday,friday,not weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",529,3115,3644,Winter_not holiday
+2011-10-15,Winter,2011,October,not holiday,saturday,weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",1899,3318,5217,Winter_not holiday
+2011-10-16,Winter,2011,October,not holiday,sunday,weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",1748,3293,5041,Winter_not holiday
+2011-10-17,Winter,2011,October,not holiday,monday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",713,3857,4570,Winter_not holiday
+2011-10-18,Winter,2011,October,not holiday,tuesday,not weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",637,4111,4748,Winter_not holiday
+2011-10-19,Winter,2011,October,not holiday,wednesday,not weekend,"Light Snow, Light Rain + Thunderstorm + Scattered clouds, Light Rain + Scattered clouds",254,2170,2424,Winter_not holiday
+2011-10-20,Winter,2011,October,not holiday,thursday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",471,3724,4195,Winter_not holiday
+2011-10-21,Winter,2011,October,not holiday,friday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",676,3628,4304,Winter_not holiday
+2011-10-22,Winter,2011,October,not holiday,saturday,weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",1499,2809,4308,Winter_not holiday
+2011-10-23,Winter,2011,October,not holiday,sunday,weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",1619,2762,4381,Winter_not holiday
+2011-10-24,Winter,2011,October,not holiday,monday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",699,3488,4187,Winter_not holiday
+2011-10-25,Winter,2011,October,not holiday,tuesday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",695,3992,4687,Winter_not holiday
+2011-10-26,Winter,2011,October,not holiday,wednesday,not weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",404,3490,3894,Winter_not holiday
+2011-10-27,Winter,2011,October,not holiday,thursday,not weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",240,2419,2659,Winter_not holiday
+2011-10-28,Winter,2011,October,not holiday,friday,not weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",456,3291,3747,Winter_not holiday
+2011-10-29,Winter,2011,October,not holiday,saturday,weekend,"Light Snow, Light Rain + Thunderstorm + Scattered clouds, Light Rain + Scattered clouds",57,570,627,Winter_not holiday
+2011-10-30,Winter,2011,October,not holiday,sunday,weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",885,2446,3331,Winter_not holiday
+2011-10-31,Winter,2011,October,not holiday,monday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",362,3307,3669,Winter_not holiday
+2011-11-01,Winter,2011,November,not holiday,tuesday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",410,3658,4068,Winter_not holiday
+2011-11-02,Winter,2011,November,not holiday,wednesday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",370,3816,4186,Winter_not holiday
+2011-11-03,Winter,2011,November,not holiday,thursday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",318,3656,3974,Winter_not holiday
+2011-11-04,Winter,2011,November,not holiday,friday,not weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",470,3576,4046,Winter_not holiday
+2011-11-05,Winter,2011,November,not holiday,saturday,weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",1156,2770,3926,Winter_not holiday
+2011-11-06,Winter,2011,November,not holiday,sunday,weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",952,2697,3649,Winter_not holiday
+2011-11-07,Winter,2011,November,not holiday,monday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",373,3662,4035,Winter_not holiday
+2011-11-08,Winter,2011,November,not holiday,tuesday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",376,3829,4205,Winter_not holiday
+2011-11-09,Winter,2011,November,not holiday,wednesday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",305,3804,4109,Winter_not holiday
+2011-11-10,Winter,2011,November,not holiday,thursday,not weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",190,2743,2933,Winter_not holiday
+2011-11-11,Winter,2011,November,holiday,friday,weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",440,2928,3368,Winter_holiday
+2011-11-12,Winter,2011,November,not holiday,saturday,weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",1275,2792,4067,Winter_not holiday
+2011-11-13,Winter,2011,November,not holiday,sunday,weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",1004,2713,3717,Winter_not holiday
+2011-11-14,Winter,2011,November,not holiday,monday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",595,3891,4486,Winter_not holiday
+2011-11-15,Winter,2011,November,not holiday,tuesday,not weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",449,3746,4195,Winter_not holiday
+2011-11-16,Winter,2011,November,not holiday,wednesday,not weekend,"Light Snow, Light Rain + Thunderstorm + Scattered clouds, Light Rain + Scattered clouds",145,1672,1817,Winter_not holiday
+2011-11-17,Winter,2011,November,not holiday,thursday,not weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",139,2914,3053,Winter_not holiday
+2011-11-18,Winter,2011,November,not holiday,friday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",245,3147,3392,Winter_not holiday
+2011-11-19,Winter,2011,November,not holiday,saturday,weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",943,2720,3663,Winter_not holiday
+2011-11-20,Winter,2011,November,not holiday,sunday,weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",787,2733,3520,Winter_not holiday
+2011-11-21,Winter,2011,November,not holiday,monday,not weekend,"Light Snow, Light Rain + Thunderstorm + Scattered clouds, Light Rain + Scattered clouds",220,2545,2765,Winter_not holiday
+2011-11-22,Winter,2011,November,not holiday,tuesday,not weekend,"Light Snow, Light Rain + Thunderstorm + Scattered clouds, Light Rain + Scattered clouds",69,1538,1607,Winter_not holiday
+2011-11-23,Winter,2011,November,not holiday,wednesday,not weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",112,2454,2566,Winter_not holiday
+2011-11-24,Winter,2011,November,holiday,thursday,weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",560,935,1495,Winter_holiday
+2011-11-25,Winter,2011,November,not holiday,friday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",1095,1697,2792,Winter_not holiday
+2011-11-26,Winter,2011,November,not holiday,saturday,weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",1249,1819,3068,Winter_not holiday
+2011-11-27,Winter,2011,November,not holiday,sunday,weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",810,2261,3071,Winter_not holiday
+2011-11-28,Winter,2011,November,not holiday,monday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",253,3614,3867,Winter_not holiday
+2011-11-29,Winter,2011,November,not holiday,tuesday,not weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",96,2818,2914,Winter_not holiday
+2011-11-30,Winter,2011,November,not holiday,wednesday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",188,3425,3613,Winter_not holiday
+2011-12-01,Winter,2011,December,not holiday,thursday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",182,3545,3727,Winter_not holiday
+2011-12-02,Winter,2011,December,not holiday,friday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",268,3672,3940,Winter_not holiday
+2011-12-03,Winter,2011,December,not holiday,saturday,weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",706,2908,3614,Winter_not holiday
+2011-12-04,Winter,2011,December,not holiday,sunday,weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",634,2851,3485,Winter_not holiday
+2011-12-05,Winter,2011,December,not holiday,monday,not weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",233,3578,3811,Winter_not holiday
+2011-12-06,Winter,2011,December,not holiday,tuesday,not weekend,"Light Snow, Light Rain + Thunderstorm + Scattered clouds, Light Rain + Scattered clouds",126,2468,2594,Winter_not holiday
+2011-12-07,Winter,2011,December,not holiday,wednesday,not weekend,"Light Snow, Light Rain + Thunderstorm + Scattered clouds, Light Rain + Scattered clouds",50,655,705,Winter_not holiday
+2011-12-08,Winter,2011,December,not holiday,thursday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",150,3172,3322,Winter_not holiday
+2011-12-09,Winter,2011,December,not holiday,friday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",261,3359,3620,Winter_not holiday
+2011-12-10,Winter,2011,December,not holiday,saturday,weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",502,2688,3190,Winter_not holiday
+2011-12-11,Winter,2011,December,not holiday,sunday,weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",377,2366,2743,Winter_not holiday
+2011-12-12,Winter,2011,December,not holiday,monday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",143,3167,3310,Winter_not holiday
+2011-12-13,Winter,2011,December,not holiday,tuesday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",155,3368,3523,Winter_not holiday
+2011-12-14,Winter,2011,December,not holiday,wednesday,not weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",178,3562,3740,Winter_not holiday
+2011-12-15,Winter,2011,December,not holiday,thursday,not weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",181,3528,3709,Winter_not holiday
+2011-12-16,Winter,2011,December,not holiday,friday,not weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",178,3399,3577,Winter_not holiday
+2011-12-17,Winter,2011,December,not holiday,saturday,weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",275,2464,2739,Winter_not holiday
+2011-12-18,Winter,2011,December,not holiday,sunday,weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",220,2211,2431,Winter_not holiday
+2011-12-19,Winter,2011,December,not holiday,monday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",260,3143,3403,Winter_not holiday
+2011-12-20,Winter,2011,December,not holiday,tuesday,not weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",216,3534,3750,Winter_not holiday
+2011-12-21,Spring,2011,December,not holiday,wednesday,not weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",107,2553,2660,Spring_not holiday
+2011-12-22,Spring,2011,December,not holiday,thursday,not weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",227,2841,3068,Spring_not holiday
+2011-12-23,Spring,2011,December,not holiday,friday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",163,2046,2209,Spring_not holiday
+2011-12-24,Spring,2011,December,not holiday,saturday,weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",155,856,1011,Spring_not holiday
+2011-12-25,Spring,2011,December,not holiday,sunday,weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",303,451,754,Spring_not holiday
+2011-12-26,Spring,2011,December,holiday,monday,weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",430,887,1317,Spring_holiday
+2011-12-27,Spring,2011,December,not holiday,tuesday,not weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",103,1059,1162,Spring_not holiday
+2011-12-28,Spring,2011,December,not holiday,wednesday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",255,2047,2302,Spring_not holiday
+2011-12-29,Spring,2011,December,not holiday,thursday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",254,2169,2423,Spring_not holiday
+2011-12-30,Spring,2011,December,not holiday,friday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",491,2508,2999,Spring_not holiday
+2011-12-31,Spring,2011,December,not holiday,saturday,weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",665,1820,2485,Spring_not holiday
+2012-01-01,Spring,2012,January,not holiday,sunday,weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",686,1608,2294,Spring_not holiday
+2012-01-02,Spring,2012,January,holiday,monday,weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",244,1707,1951,Spring_holiday
+2012-01-03,Spring,2012,January,not holiday,tuesday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",89,2147,2236,Spring_not holiday
+2012-01-04,Spring,2012,January,not holiday,wednesday,not weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",95,2273,2368,Spring_not holiday
+2012-01-05,Spring,2012,January,not holiday,thursday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",140,3132,3272,Spring_not holiday
+2012-01-06,Spring,2012,January,not holiday,friday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",307,3791,4098,Spring_not holiday
+2012-01-07,Spring,2012,January,not holiday,saturday,weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",1070,3451,4521,Spring_not holiday
+2012-01-08,Spring,2012,January,not holiday,sunday,weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",599,2826,3425,Spring_not holiday
+2012-01-09,Spring,2012,January,not holiday,monday,not weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",106,2270,2376,Spring_not holiday
+2012-01-10,Spring,2012,January,not holiday,tuesday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",173,3425,3598,Spring_not holiday
+2012-01-11,Spring,2012,January,not holiday,wednesday,not weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",92,2085,2177,Spring_not holiday
+2012-01-12,Spring,2012,January,not holiday,thursday,not weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",269,3828,4097,Spring_not holiday
+2012-01-13,Spring,2012,January,not holiday,friday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",174,3040,3214,Spring_not holiday
+2012-01-14,Spring,2012,January,not holiday,saturday,weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",333,2160,2493,Spring_not holiday
+2012-01-15,Spring,2012,January,not holiday,sunday,weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",284,2027,2311,Spring_not holiday
+2012-01-16,Spring,2012,January,holiday,monday,weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",217,2081,2298,Spring_holiday
+2012-01-17,Spring,2012,January,not holiday,tuesday,not weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",127,2808,2935,Spring_not holiday
+2012-01-18,Spring,2012,January,not holiday,wednesday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",109,3267,3376,Spring_not holiday
+2012-01-19,Spring,2012,January,not holiday,thursday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",130,3162,3292,Spring_not holiday
+2012-01-20,Spring,2012,January,not holiday,friday,not weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",115,3048,3163,Spring_not holiday
+2012-01-21,Spring,2012,January,not holiday,saturday,weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",67,1234,1301,Spring_not holiday
+2012-01-22,Spring,2012,January,not holiday,sunday,weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",196,1781,1977,Spring_not holiday
+2012-01-23,Spring,2012,January,not holiday,monday,not weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",145,2287,2432,Spring_not holiday
+2012-01-24,Spring,2012,January,not holiday,tuesday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",439,3900,4339,Spring_not holiday
+2012-01-25,Spring,2012,January,not holiday,wednesday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",467,3803,4270,Spring_not holiday
+2012-01-26,Spring,2012,January,not holiday,thursday,not weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",244,3831,4075,Spring_not holiday
+2012-01-27,Spring,2012,January,not holiday,friday,not weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",269,3187,3456,Spring_not holiday
+2012-01-28,Spring,2012,January,not holiday,saturday,weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",775,3248,4023,Spring_not holiday
+2012-01-29,Spring,2012,January,not holiday,sunday,weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",558,2685,3243,Spring_not holiday
+2012-01-30,Spring,2012,January,not holiday,monday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",126,3498,3624,Spring_not holiday
+2012-01-31,Spring,2012,January,not holiday,tuesday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",324,4185,4509,Spring_not holiday
+2012-02-01,Spring,2012,February,not holiday,wednesday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",304,4275,4579,Spring_not holiday
+2012-02-02,Spring,2012,February,not holiday,thursday,not weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",190,3571,3761,Spring_not holiday
+2012-02-03,Spring,2012,February,not holiday,friday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",310,3841,4151,Spring_not holiday
+2012-02-04,Spring,2012,February,not holiday,saturday,weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",384,2448,2832,Spring_not holiday
+2012-02-05,Spring,2012,February,not holiday,sunday,weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",318,2629,2947,Spring_not holiday
+2012-02-06,Spring,2012,February,not holiday,monday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",206,3578,3784,Spring_not holiday
+2012-02-07,Spring,2012,February,not holiday,tuesday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",199,4176,4375,Spring_not holiday
+2012-02-08,Spring,2012,February,not holiday,wednesday,not weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",109,2693,2802,Spring_not holiday
+2012-02-09,Spring,2012,February,not holiday,thursday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",163,3667,3830,Spring_not holiday
+2012-02-10,Spring,2012,February,not holiday,friday,not weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",227,3604,3831,Spring_not holiday
+2012-02-11,Spring,2012,February,not holiday,saturday,weekend,"Light Snow, Light Rain + Thunderstorm + Scattered clouds, Light Rain + Scattered clouds",192,1977,2169,Spring_not holiday
+2012-02-12,Spring,2012,February,not holiday,sunday,weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",73,1456,1529,Spring_not holiday
+2012-02-13,Spring,2012,February,not holiday,monday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",94,3328,3422,Spring_not holiday
+2012-02-14,Spring,2012,February,not holiday,tuesday,not weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",135,3787,3922,Spring_not holiday
+2012-02-15,Spring,2012,February,not holiday,wednesday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",141,4028,4169,Spring_not holiday
+2012-02-16,Spring,2012,February,not holiday,thursday,not weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",74,2931,3005,Spring_not holiday
+2012-02-17,Spring,2012,February,not holiday,friday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",349,3805,4154,Spring_not holiday
+2012-02-18,Spring,2012,February,not holiday,saturday,weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",1435,2883,4318,Spring_not holiday
+2012-02-19,Spring,2012,February,not holiday,sunday,weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",618,2071,2689,Spring_not holiday
+2012-02-20,Spring,2012,February,holiday,monday,weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",502,2627,3129,Spring_holiday
+2012-02-21,Spring,2012,February,not holiday,tuesday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",163,3614,3777,Spring_not holiday
+2012-02-22,Spring,2012,February,not holiday,wednesday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",394,4379,4773,Spring_not holiday
+2012-02-23,Spring,2012,February,not holiday,thursday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",516,4546,5062,Spring_not holiday
+2012-02-24,Spring,2012,February,not holiday,friday,not weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",246,3241,3487,Spring_not holiday
+2012-02-25,Spring,2012,February,not holiday,saturday,weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",317,2415,2732,Spring_not holiday
+2012-02-26,Spring,2012,February,not holiday,sunday,weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",515,2874,3389,Spring_not holiday
+2012-02-27,Spring,2012,February,not holiday,monday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",253,4069,4322,Spring_not holiday
+2012-02-28,Spring,2012,February,not holiday,tuesday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",229,4134,4363,Spring_not holiday
+2012-02-29,Spring,2012,February,not holiday,wednesday,not weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",65,1769,1834,Spring_not holiday
+2012-03-01,Spring,2012,March,not holiday,thursday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",325,4665,4990,Spring_not holiday
+2012-03-02,Spring,2012,March,not holiday,friday,not weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",246,2948,3194,Spring_not holiday
+2012-03-03,Spring,2012,March,not holiday,saturday,weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",956,3110,4066,Spring_not holiday
+2012-03-04,Spring,2012,March,not holiday,sunday,weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",710,2713,3423,Spring_not holiday
+2012-03-05,Spring,2012,March,not holiday,monday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",203,3130,3333,Spring_not holiday
+2012-03-06,Spring,2012,March,not holiday,tuesday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",221,3735,3956,Spring_not holiday
+2012-03-07,Spring,2012,March,not holiday,wednesday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",432,4484,4916,Spring_not holiday
+2012-03-08,Spring,2012,March,not holiday,thursday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",486,4896,5382,Spring_not holiday
+2012-03-09,Spring,2012,March,not holiday,friday,not weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",447,4122,4569,Spring_not holiday
+2012-03-10,Spring,2012,March,not holiday,saturday,weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",968,3150,4118,Spring_not holiday
+2012-03-11,Spring,2012,March,not holiday,sunday,weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",1658,3253,4911,Spring_not holiday
+2012-03-12,Spring,2012,March,not holiday,monday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",838,4460,5298,Spring_not holiday
+2012-03-13,Spring,2012,March,not holiday,tuesday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",762,5085,5847,Spring_not holiday
+2012-03-14,Spring,2012,March,not holiday,wednesday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",997,5315,6312,Spring_not holiday
+2012-03-15,Spring,2012,March,not holiday,thursday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",1005,5187,6192,Spring_not holiday
+2012-03-16,Spring,2012,March,not holiday,friday,not weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",548,3830,4378,Spring_not holiday
+2012-03-17,Spring,2012,March,not holiday,saturday,weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",3155,4681,7836,Spring_not holiday
+2012-03-18,Spring,2012,March,not holiday,sunday,weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",2207,3685,5892,Spring_not holiday
+2012-03-19,Spring,2012,March,not holiday,monday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",982,5171,6153,Spring_not holiday
+2012-03-20,Spring,2012,March,not holiday,tuesday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",1051,5042,6093,Spring_not holiday
+2012-03-21,Summer,2012,March,not holiday,wednesday,not weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",1122,5108,6230,Summer_not holiday
+2012-03-22,Summer,2012,March,not holiday,thursday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",1334,5537,6871,Summer_not holiday
+2012-03-23,Summer,2012,March,not holiday,friday,not weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",2469,5893,8362,Summer_not holiday
+2012-03-24,Summer,2012,March,not holiday,saturday,weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",1033,2339,3372,Summer_not holiday
+2012-03-25,Summer,2012,March,not holiday,sunday,weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",1532,3464,4996,Summer_not holiday
+2012-03-26,Summer,2012,March,not holiday,monday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",795,4763,5558,Summer_not holiday
+2012-03-27,Summer,2012,March,not holiday,tuesday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",531,4571,5102,Summer_not holiday
+2012-03-28,Summer,2012,March,not holiday,wednesday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",674,5024,5698,Summer_not holiday
+2012-03-29,Summer,2012,March,not holiday,thursday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",834,5299,6133,Summer_not holiday
+2012-03-30,Summer,2012,March,not holiday,friday,not weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",796,4663,5459,Summer_not holiday
+2012-03-31,Summer,2012,March,not holiday,saturday,weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",2301,3934,6235,Summer_not holiday
+2012-04-01,Summer,2012,April,not holiday,sunday,weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",2347,3694,6041,Summer_not holiday
+2012-04-02,Summer,2012,April,not holiday,monday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",1208,4728,5936,Summer_not holiday
+2012-04-03,Summer,2012,April,not holiday,tuesday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",1348,5424,6772,Summer_not holiday
+2012-04-04,Summer,2012,April,not holiday,wednesday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",1058,5378,6436,Summer_not holiday
+2012-04-05,Summer,2012,April,not holiday,thursday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",1192,5265,6457,Summer_not holiday
+2012-04-06,Summer,2012,April,not holiday,friday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",1807,4653,6460,Summer_not holiday
+2012-04-07,Summer,2012,April,not holiday,saturday,weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",3252,3605,6857,Summer_not holiday
+2012-04-08,Summer,2012,April,not holiday,sunday,weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",2230,2939,5169,Summer_not holiday
+2012-04-09,Summer,2012,April,not holiday,monday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",905,4680,5585,Summer_not holiday
+2012-04-10,Summer,2012,April,not holiday,tuesday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",819,5099,5918,Summer_not holiday
+2012-04-11,Summer,2012,April,not holiday,wednesday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",482,4380,4862,Summer_not holiday
+2012-04-12,Summer,2012,April,not holiday,thursday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",663,4746,5409,Summer_not holiday
+2012-04-13,Summer,2012,April,not holiday,friday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",1252,5146,6398,Summer_not holiday
+2012-04-14,Summer,2012,April,not holiday,saturday,weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",2795,4665,7460,Summer_not holiday
+2012-04-15,Summer,2012,April,not holiday,sunday,weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",2846,4286,7132,Summer_not holiday
+2012-04-16,Summer,2012,April,holiday,monday,weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",1198,5172,6370,Summer_holiday
+2012-04-17,Summer,2012,April,not holiday,tuesday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",989,5702,6691,Summer_not holiday
+2012-04-18,Summer,2012,April,not holiday,wednesday,not weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",347,4020,4367,Summer_not holiday
+2012-04-19,Summer,2012,April,not holiday,thursday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",846,5719,6565,Summer_not holiday
+2012-04-20,Summer,2012,April,not holiday,friday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",1340,5950,7290,Summer_not holiday
+2012-04-21,Summer,2012,April,not holiday,saturday,weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",2541,4083,6624,Summer_not holiday
+2012-04-22,Summer,2012,April,not holiday,sunday,weekend,"Light Snow, Light Rain + Thunderstorm + Scattered clouds, Light Rain + Scattered clouds",120,907,1027,Summer_not holiday
+2012-04-23,Summer,2012,April,not holiday,monday,not weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",195,3019,3214,Summer_not holiday
+2012-04-24,Summer,2012,April,not holiday,tuesday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",518,5115,5633,Summer_not holiday
+2012-04-25,Summer,2012,April,not holiday,wednesday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",655,5541,6196,Summer_not holiday
+2012-04-26,Summer,2012,April,not holiday,thursday,not weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",475,4551,5026,Summer_not holiday
+2012-04-27,Summer,2012,April,not holiday,friday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",1014,5219,6233,Summer_not holiday
+2012-04-28,Summer,2012,April,not holiday,saturday,weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",1120,3100,4220,Summer_not holiday
+2012-04-29,Summer,2012,April,not holiday,sunday,weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",2229,4075,6304,Summer_not holiday
+2012-04-30,Summer,2012,April,not holiday,monday,not weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",665,4907,5572,Summer_not holiday
+2012-05-01,Summer,2012,May,not holiday,tuesday,not weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",653,5087,5740,Summer_not holiday
+2012-05-02,Summer,2012,May,not holiday,wednesday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",667,5502,6169,Summer_not holiday
+2012-05-03,Summer,2012,May,not holiday,thursday,not weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",764,5657,6421,Summer_not holiday
+2012-05-04,Summer,2012,May,not holiday,friday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",1069,5227,6296,Summer_not holiday
+2012-05-05,Summer,2012,May,not holiday,saturday,weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",2496,4387,6883,Summer_not holiday
+2012-05-06,Summer,2012,May,not holiday,sunday,weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",2135,4224,6359,Summer_not holiday
+2012-05-07,Summer,2012,May,not holiday,monday,not weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",1008,5265,6273,Summer_not holiday
+2012-05-08,Summer,2012,May,not holiday,tuesday,not weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",738,4990,5728,Summer_not holiday
+2012-05-09,Summer,2012,May,not holiday,wednesday,not weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",620,4097,4717,Summer_not holiday
+2012-05-10,Summer,2012,May,not holiday,thursday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",1026,5546,6572,Summer_not holiday
+2012-05-11,Summer,2012,May,not holiday,friday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",1319,5711,7030,Summer_not holiday
+2012-05-12,Summer,2012,May,not holiday,saturday,weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",2622,4807,7429,Summer_not holiday
+2012-05-13,Summer,2012,May,not holiday,sunday,weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",2172,3946,6118,Summer_not holiday
+2012-05-14,Summer,2012,May,not holiday,monday,not weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",342,2501,2843,Summer_not holiday
+2012-05-15,Summer,2012,May,not holiday,tuesday,not weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",625,4490,5115,Summer_not holiday
+2012-05-16,Summer,2012,May,not holiday,wednesday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",991,6433,7424,Summer_not holiday
+2012-05-17,Summer,2012,May,not holiday,thursday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",1242,6142,7384,Summer_not holiday
+2012-05-18,Summer,2012,May,not holiday,friday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",1521,6118,7639,Summer_not holiday
+2012-05-19,Summer,2012,May,not holiday,saturday,weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",3410,4884,8294,Summer_not holiday
+2012-05-20,Summer,2012,May,not holiday,sunday,weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",2704,4425,7129,Summer_not holiday
+2012-05-21,Summer,2012,May,not holiday,monday,not weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",630,3729,4359,Summer_not holiday
+2012-05-22,Summer,2012,May,not holiday,tuesday,not weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",819,5254,6073,Summer_not holiday
+2012-05-23,Summer,2012,May,not holiday,wednesday,not weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",766,4494,5260,Summer_not holiday
+2012-05-24,Summer,2012,May,not holiday,thursday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",1059,5711,6770,Summer_not holiday
+2012-05-25,Summer,2012,May,not holiday,friday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",1417,5317,6734,Summer_not holiday
+2012-05-26,Summer,2012,May,not holiday,saturday,weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",2855,3681,6536,Summer_not holiday
+2012-05-27,Summer,2012,May,not holiday,sunday,weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",3283,3308,6591,Summer_not holiday
+2012-05-28,Summer,2012,May,holiday,monday,weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",2557,3486,6043,Summer_holiday
+2012-05-29,Summer,2012,May,not holiday,tuesday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",880,4863,5743,Summer_not holiday
+2012-05-30,Summer,2012,May,not holiday,wednesday,not weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",745,6110,6855,Summer_not holiday
+2012-05-31,Summer,2012,May,not holiday,thursday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",1100,6238,7338,Summer_not holiday
+2012-06-01,Summer,2012,June,not holiday,friday,not weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",533,3594,4127,Summer_not holiday
+2012-06-02,Summer,2012,June,not holiday,saturday,weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",2795,5325,8120,Summer_not holiday
+2012-06-03,Summer,2012,June,not holiday,sunday,weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",2494,5147,7641,Summer_not holiday
+2012-06-04,Summer,2012,June,not holiday,monday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",1071,5927,6998,Summer_not holiday
+2012-06-05,Summer,2012,June,not holiday,tuesday,not weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",968,6033,7001,Summer_not holiday
+2012-06-06,Summer,2012,June,not holiday,wednesday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",1027,6028,7055,Summer_not holiday
+2012-06-07,Summer,2012,June,not holiday,thursday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",1038,6456,7494,Summer_not holiday
+2012-06-08,Summer,2012,June,not holiday,friday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",1488,6248,7736,Summer_not holiday
+2012-06-09,Summer,2012,June,not holiday,saturday,weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",2708,4790,7498,Summer_not holiday
+2012-06-10,Summer,2012,June,not holiday,sunday,weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",2224,4374,6598,Summer_not holiday
+2012-06-11,Summer,2012,June,not holiday,monday,not weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",1017,5647,6664,Summer_not holiday
+2012-06-12,Summer,2012,June,not holiday,tuesday,not weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",477,4495,4972,Summer_not holiday
+2012-06-13,Summer,2012,June,not holiday,wednesday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",1173,6248,7421,Summer_not holiday
+2012-06-14,Summer,2012,June,not holiday,thursday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",1180,6183,7363,Summer_not holiday
+2012-06-15,Summer,2012,June,not holiday,friday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",1563,6102,7665,Summer_not holiday
+2012-06-16,Summer,2012,June,not holiday,saturday,weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",2963,4739,7702,Summer_not holiday
+2012-06-17,Summer,2012,June,not holiday,sunday,weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",2634,4344,6978,Summer_not holiday
+2012-06-18,Summer,2012,June,not holiday,monday,not weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",653,4446,5099,Summer_not holiday
+2012-06-19,Summer,2012,June,not holiday,tuesday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",968,5857,6825,Summer_not holiday
+2012-06-20,Summer,2012,June,not holiday,wednesday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",872,5339,6211,Summer_not holiday
+2012-06-21,Fall,2012,June,not holiday,thursday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",778,5127,5905,Fall_not holiday
+2012-06-22,Fall,2012,June,not holiday,friday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",964,4859,5823,Fall_not holiday
+2012-06-23,Fall,2012,June,not holiday,saturday,weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",2657,4801,7458,Fall_not holiday
+2012-06-24,Fall,2012,June,not holiday,sunday,weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",2551,4340,6891,Fall_not holiday
+2012-06-25,Fall,2012,June,not holiday,monday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",1139,5640,6779,Fall_not holiday
+2012-06-26,Fall,2012,June,not holiday,tuesday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",1077,6365,7442,Fall_not holiday
+2012-06-27,Fall,2012,June,not holiday,wednesday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",1077,6258,7335,Fall_not holiday
+2012-06-28,Fall,2012,June,not holiday,thursday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",921,5958,6879,Fall_not holiday
+2012-06-29,Fall,2012,June,not holiday,friday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",829,4634,5463,Fall_not holiday
+2012-06-30,Fall,2012,June,not holiday,saturday,weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",1455,4232,5687,Fall_not holiday
+2012-07-01,Fall,2012,July,not holiday,sunday,weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",1421,4110,5531,Fall_not holiday
+2012-07-02,Fall,2012,July,not holiday,monday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",904,5323,6227,Fall_not holiday
+2012-07-03,Fall,2012,July,not holiday,tuesday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",1052,5608,6660,Fall_not holiday
+2012-07-04,Fall,2012,July,holiday,wednesday,weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",2562,4841,7403,Fall_holiday
+2012-07-05,Fall,2012,July,not holiday,thursday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",1405,4836,6241,Fall_not holiday
+2012-07-06,Fall,2012,July,not holiday,friday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",1366,4841,6207,Fall_not holiday
+2012-07-07,Fall,2012,July,not holiday,saturday,weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",1448,3392,4840,Fall_not holiday
+2012-07-08,Fall,2012,July,not holiday,sunday,weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",1203,3469,4672,Fall_not holiday
+2012-07-09,Fall,2012,July,not holiday,monday,not weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",998,5571,6569,Fall_not holiday
+2012-07-10,Fall,2012,July,not holiday,tuesday,not weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",954,5336,6290,Fall_not holiday
+2012-07-11,Fall,2012,July,not holiday,wednesday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",975,6289,7264,Fall_not holiday
+2012-07-12,Fall,2012,July,not holiday,thursday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",1032,6414,7446,Fall_not holiday
+2012-07-13,Fall,2012,July,not holiday,friday,not weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",1511,5988,7499,Fall_not holiday
+2012-07-14,Fall,2012,July,not holiday,saturday,weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",2355,4614,6969,Fall_not holiday
+2012-07-15,Fall,2012,July,not holiday,sunday,weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",1920,4111,6031,Fall_not holiday
+2012-07-16,Fall,2012,July,not holiday,monday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",1088,5742,6830,Fall_not holiday
+2012-07-17,Fall,2012,July,not holiday,tuesday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",921,5865,6786,Fall_not holiday
+2012-07-18,Fall,2012,July,not holiday,wednesday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",799,4914,5713,Fall_not holiday
+2012-07-19,Fall,2012,July,not holiday,thursday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",888,5703,6591,Fall_not holiday
+2012-07-20,Fall,2012,July,not holiday,friday,not weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",747,5123,5870,Fall_not holiday
+2012-07-21,Fall,2012,July,not holiday,saturday,weekend,"Light Snow, Light Rain + Thunderstorm + Scattered clouds, Light Rain + Scattered clouds",1264,3195,4459,Fall_not holiday
+2012-07-22,Fall,2012,July,not holiday,sunday,weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",2544,4866,7410,Fall_not holiday
+2012-07-23,Fall,2012,July,not holiday,monday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",1135,5831,6966,Fall_not holiday
+2012-07-24,Fall,2012,July,not holiday,tuesday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",1140,6452,7592,Fall_not holiday
+2012-07-25,Fall,2012,July,not holiday,wednesday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",1383,6790,8173,Fall_not holiday
+2012-07-26,Fall,2012,July,not holiday,thursday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",1036,5825,6861,Fall_not holiday
+2012-07-27,Fall,2012,July,not holiday,friday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",1259,5645,6904,Fall_not holiday
+2012-07-28,Fall,2012,July,not holiday,saturday,weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",2234,4451,6685,Fall_not holiday
+2012-07-29,Fall,2012,July,not holiday,sunday,weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",2153,4444,6597,Fall_not holiday
+2012-07-30,Fall,2012,July,not holiday,monday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",1040,6065,7105,Fall_not holiday
+2012-07-31,Fall,2012,July,not holiday,tuesday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",968,6248,7216,Fall_not holiday
+2012-08-01,Fall,2012,August,not holiday,wednesday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",1074,6506,7580,Fall_not holiday
+2012-08-02,Fall,2012,August,not holiday,thursday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",983,6278,7261,Fall_not holiday
+2012-08-03,Fall,2012,August,not holiday,friday,not weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",1328,5847,7175,Fall_not holiday
+2012-08-04,Fall,2012,August,not holiday,saturday,weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",2345,4479,6824,Fall_not holiday
+2012-08-05,Fall,2012,August,not holiday,sunday,weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",1707,3757,5464,Fall_not holiday
+2012-08-06,Fall,2012,August,not holiday,monday,not weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",1233,5780,7013,Fall_not holiday
+2012-08-07,Fall,2012,August,not holiday,tuesday,not weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",1278,5995,7273,Fall_not holiday
+2012-08-08,Fall,2012,August,not holiday,wednesday,not weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",1263,6271,7534,Fall_not holiday
+2012-08-09,Fall,2012,August,not holiday,thursday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",1196,6090,7286,Fall_not holiday
+2012-08-10,Fall,2012,August,not holiday,friday,not weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",1065,4721,5786,Fall_not holiday
+2012-08-11,Fall,2012,August,not holiday,saturday,weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",2247,4052,6299,Fall_not holiday
+2012-08-12,Fall,2012,August,not holiday,sunday,weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",2182,4362,6544,Fall_not holiday
+2012-08-13,Fall,2012,August,not holiday,monday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",1207,5676,6883,Fall_not holiday
+2012-08-14,Fall,2012,August,not holiday,tuesday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",1128,5656,6784,Fall_not holiday
+2012-08-15,Fall,2012,August,not holiday,wednesday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",1198,6149,7347,Fall_not holiday
+2012-08-16,Fall,2012,August,not holiday,thursday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",1338,6267,7605,Fall_not holiday
+2012-08-17,Fall,2012,August,not holiday,friday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",1483,5665,7148,Fall_not holiday
+2012-08-18,Fall,2012,August,not holiday,saturday,weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",2827,5038,7865,Fall_not holiday
+2012-08-19,Fall,2012,August,not holiday,sunday,weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",1208,3341,4549,Fall_not holiday
+2012-08-20,Fall,2012,August,not holiday,monday,not weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",1026,5504,6530,Fall_not holiday
+2012-08-21,Fall,2012,August,not holiday,tuesday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",1081,5925,7006,Fall_not holiday
+2012-08-22,Fall,2012,August,not holiday,wednesday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",1094,6281,7375,Fall_not holiday
+2012-08-23,Fall,2012,August,not holiday,thursday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",1363,6402,7765,Fall_not holiday
+2012-08-24,Fall,2012,August,not holiday,friday,not weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",1325,6257,7582,Fall_not holiday
+2012-08-25,Fall,2012,August,not holiday,saturday,weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",1829,4224,6053,Fall_not holiday
+2012-08-26,Fall,2012,August,not holiday,sunday,weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",1483,3772,5255,Fall_not holiday
+2012-08-27,Fall,2012,August,not holiday,monday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",989,5928,6917,Fall_not holiday
+2012-08-28,Fall,2012,August,not holiday,tuesday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",935,6105,7040,Fall_not holiday
+2012-08-29,Fall,2012,August,not holiday,wednesday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",1177,6520,7697,Fall_not holiday
+2012-08-30,Fall,2012,August,not holiday,thursday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",1172,6541,7713,Fall_not holiday
+2012-08-31,Fall,2012,August,not holiday,friday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",1433,5917,7350,Fall_not holiday
+2012-09-01,Fall,2012,September,not holiday,saturday,weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",2352,3788,6140,Fall_not holiday
+2012-09-02,Fall,2012,September,not holiday,sunday,weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",2613,3197,5810,Fall_not holiday
+2012-09-03,Fall,2012,September,holiday,monday,weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",1965,4069,6034,Fall_holiday
+2012-09-04,Fall,2012,September,not holiday,tuesday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",867,5997,6864,Fall_not holiday
+2012-09-05,Fall,2012,September,not holiday,wednesday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",832,6280,7112,Fall_not holiday
+2012-09-06,Fall,2012,September,not holiday,thursday,not weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",611,5592,6203,Fall_not holiday
+2012-09-07,Fall,2012,September,not holiday,friday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",1045,6459,7504,Fall_not holiday
+2012-09-08,Fall,2012,September,not holiday,saturday,weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",1557,4419,5976,Fall_not holiday
+2012-09-09,Fall,2012,September,not holiday,sunday,weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",2570,5657,8227,Fall_not holiday
+2012-09-10,Fall,2012,September,not holiday,monday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",1118,6407,7525,Fall_not holiday
+2012-09-11,Fall,2012,September,not holiday,tuesday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",1070,6697,7767,Fall_not holiday
+2012-09-12,Fall,2012,September,not holiday,wednesday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",1050,6820,7870,Fall_not holiday
+2012-09-13,Fall,2012,September,not holiday,thursday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",1054,6750,7804,Fall_not holiday
+2012-09-14,Fall,2012,September,not holiday,friday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",1379,6630,8009,Fall_not holiday
+2012-09-15,Fall,2012,September,not holiday,saturday,weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",3160,5554,8714,Fall_not holiday
+2012-09-16,Fall,2012,September,not holiday,sunday,weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",2166,5167,7333,Fall_not holiday
+2012-09-17,Fall,2012,September,not holiday,monday,not weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",1022,5847,6869,Fall_not holiday
+2012-09-18,Fall,2012,September,not holiday,tuesday,not weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",371,3702,4073,Fall_not holiday
+2012-09-19,Fall,2012,September,not holiday,wednesday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",788,6803,7591,Fall_not holiday
+2012-09-20,Fall,2012,September,not holiday,thursday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",939,6781,7720,Fall_not holiday
+2012-09-21,Fall,2012,September,not holiday,friday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",1250,6917,8167,Fall_not holiday
+2012-09-22,Fall,2012,September,not holiday,saturday,weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",2512,5883,8395,Fall_not holiday
+2012-09-23,Winter,2012,September,not holiday,sunday,weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",2454,5453,7907,Winter_not holiday
+2012-09-24,Winter,2012,September,not holiday,monday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",1001,6435,7436,Winter_not holiday
+2012-09-25,Winter,2012,September,not holiday,tuesday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",845,6693,7538,Winter_not holiday
+2012-09-26,Winter,2012,September,not holiday,wednesday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",787,6946,7733,Winter_not holiday
+2012-09-27,Winter,2012,September,not holiday,thursday,not weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",751,6642,7393,Winter_not holiday
+2012-09-28,Winter,2012,September,not holiday,friday,not weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",1045,6370,7415,Winter_not holiday
+2012-09-29,Winter,2012,September,not holiday,saturday,weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",2589,5966,8555,Winter_not holiday
+2012-09-30,Winter,2012,September,not holiday,sunday,weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",2015,4874,6889,Winter_not holiday
+2012-10-01,Winter,2012,October,not holiday,monday,not weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",763,6015,6778,Winter_not holiday
+2012-10-02,Winter,2012,October,not holiday,tuesday,not weekend,"Light Snow, Light Rain + Thunderstorm + Scattered clouds, Light Rain + Scattered clouds",315,4324,4639,Winter_not holiday
+2012-10-03,Winter,2012,October,not holiday,wednesday,not weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",728,6844,7572,Winter_not holiday
+2012-10-04,Winter,2012,October,not holiday,thursday,not weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",891,6437,7328,Winter_not holiday
+2012-10-05,Winter,2012,October,not holiday,friday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",1516,6640,8156,Winter_not holiday
+2012-10-06,Winter,2012,October,not holiday,saturday,weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",3031,4934,7965,Winter_not holiday
+2012-10-07,Winter,2012,October,not holiday,sunday,weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",781,2729,3510,Winter_not holiday
+2012-10-08,Winter,2012,October,holiday,monday,weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",874,4604,5478,Winter_holiday
+2012-10-09,Winter,2012,October,not holiday,tuesday,not weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",601,5791,6392,Winter_not holiday
+2012-10-10,Winter,2012,October,not holiday,wednesday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",780,6911,7691,Winter_not holiday
+2012-10-11,Winter,2012,October,not holiday,thursday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",834,6736,7570,Winter_not holiday
+2012-10-12,Winter,2012,October,not holiday,friday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",1060,6222,7282,Winter_not holiday
+2012-10-13,Winter,2012,October,not holiday,saturday,weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",2252,4857,7109,Winter_not holiday
+2012-10-14,Winter,2012,October,not holiday,sunday,weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",2080,4559,6639,Winter_not holiday
+2012-10-15,Winter,2012,October,not holiday,monday,not weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",760,5115,5875,Winter_not holiday
+2012-10-16,Winter,2012,October,not holiday,tuesday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",922,6612,7534,Winter_not holiday
+2012-10-17,Winter,2012,October,not holiday,wednesday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",979,6482,7461,Winter_not holiday
+2012-10-18,Winter,2012,October,not holiday,thursday,not weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",1008,6501,7509,Winter_not holiday
+2012-10-19,Winter,2012,October,not holiday,friday,not weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",753,4671,5424,Winter_not holiday
+2012-10-20,Winter,2012,October,not holiday,saturday,weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",2806,5284,8090,Winter_not holiday
+2012-10-21,Winter,2012,October,not holiday,sunday,weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",2132,4692,6824,Winter_not holiday
+2012-10-22,Winter,2012,October,not holiday,monday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",830,6228,7058,Winter_not holiday
+2012-10-23,Winter,2012,October,not holiday,tuesday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",841,6625,7466,Winter_not holiday
+2012-10-24,Winter,2012,October,not holiday,wednesday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",795,6898,7693,Winter_not holiday
+2012-10-25,Winter,2012,October,not holiday,thursday,not weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",875,6484,7359,Winter_not holiday
+2012-10-26,Winter,2012,October,not holiday,friday,not weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",1182,6262,7444,Winter_not holiday
+2012-10-27,Winter,2012,October,not holiday,saturday,weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",2643,5209,7852,Winter_not holiday
+2012-10-28,Winter,2012,October,not holiday,sunday,weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",998,3461,4459,Winter_not holiday
+2012-10-29,Winter,2012,October,not holiday,monday,not weekend,"Light Snow, Light Rain + Thunderstorm + Scattered clouds, Light Rain + Scattered clouds",2,20,22,Winter_not holiday
+2012-10-30,Winter,2012,October,not holiday,tuesday,not weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",87,1009,1096,Winter_not holiday
+2012-10-31,Winter,2012,October,not holiday,wednesday,not weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",419,5147,5566,Winter_not holiday
+2012-11-01,Winter,2012,November,not holiday,thursday,not weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",466,5520,5986,Winter_not holiday
+2012-11-02,Winter,2012,November,not holiday,friday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",618,5229,5847,Winter_not holiday
+2012-11-03,Winter,2012,November,not holiday,saturday,weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",1029,4109,5138,Winter_not holiday
+2012-11-04,Winter,2012,November,not holiday,sunday,weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",1201,3906,5107,Winter_not holiday
+2012-11-05,Winter,2012,November,not holiday,monday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",378,4881,5259,Winter_not holiday
+2012-11-06,Winter,2012,November,not holiday,tuesday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",466,5220,5686,Winter_not holiday
+2012-11-07,Winter,2012,November,not holiday,wednesday,not weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",326,4709,5035,Winter_not holiday
+2012-11-08,Winter,2012,November,not holiday,thursday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",340,4975,5315,Winter_not holiday
+2012-11-09,Winter,2012,November,not holiday,friday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",709,5283,5992,Winter_not holiday
+2012-11-10,Winter,2012,November,not holiday,saturday,weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",2090,4446,6536,Winter_not holiday
+2012-11-11,Winter,2012,November,not holiday,sunday,weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",2290,4562,6852,Winter_not holiday
+2012-11-12,Winter,2012,November,holiday,monday,weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",1097,5172,6269,Winter_holiday
+2012-11-13,Winter,2012,November,not holiday,tuesday,not weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",327,3767,4094,Winter_not holiday
+2012-11-14,Winter,2012,November,not holiday,wednesday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",373,5122,5495,Winter_not holiday
+2012-11-15,Winter,2012,November,not holiday,thursday,not weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",320,5125,5445,Winter_not holiday
+2012-11-16,Winter,2012,November,not holiday,friday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",484,5214,5698,Winter_not holiday
+2012-11-17,Winter,2012,November,not holiday,saturday,weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",1313,4316,5629,Winter_not holiday
+2012-11-18,Winter,2012,November,not holiday,sunday,weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",922,3747,4669,Winter_not holiday
+2012-11-19,Winter,2012,November,not holiday,monday,not weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",449,5050,5499,Winter_not holiday
+2012-11-20,Winter,2012,November,not holiday,tuesday,not weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",534,5100,5634,Winter_not holiday
+2012-11-21,Winter,2012,November,not holiday,wednesday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",615,4531,5146,Winter_not holiday
+2012-11-22,Winter,2012,November,holiday,thursday,weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",955,1470,2425,Winter_holiday
+2012-11-23,Winter,2012,November,not holiday,friday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",1603,2307,3910,Winter_not holiday
+2012-11-24,Winter,2012,November,not holiday,saturday,weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",532,1745,2277,Winter_not holiday
+2012-11-25,Winter,2012,November,not holiday,sunday,weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",309,2115,2424,Winter_not holiday
+2012-11-26,Winter,2012,November,not holiday,monday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",337,4750,5087,Winter_not holiday
+2012-11-27,Winter,2012,November,not holiday,tuesday,not weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",123,3836,3959,Winter_not holiday
+2012-11-28,Winter,2012,November,not holiday,wednesday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",198,5062,5260,Winter_not holiday
+2012-11-29,Winter,2012,November,not holiday,thursday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",243,5080,5323,Winter_not holiday
+2012-11-30,Winter,2012,November,not holiday,friday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",362,5306,5668,Winter_not holiday
+2012-12-01,Winter,2012,December,not holiday,saturday,weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",951,4240,5191,Winter_not holiday
+2012-12-02,Winter,2012,December,not holiday,sunday,weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",892,3757,4649,Winter_not holiday
+2012-12-03,Winter,2012,December,not holiday,monday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",555,5679,6234,Winter_not holiday
+2012-12-04,Winter,2012,December,not holiday,tuesday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",551,6055,6606,Winter_not holiday
+2012-12-05,Winter,2012,December,not holiday,wednesday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",331,5398,5729,Winter_not holiday
+2012-12-06,Winter,2012,December,not holiday,thursday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",340,5035,5375,Winter_not holiday
+2012-12-07,Winter,2012,December,not holiday,friday,not weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",349,4659,5008,Winter_not holiday
+2012-12-08,Winter,2012,December,not holiday,saturday,weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",1153,4429,5582,Winter_not holiday
+2012-12-09,Winter,2012,December,not holiday,sunday,weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",441,2787,3228,Winter_not holiday
+2012-12-10,Winter,2012,December,not holiday,monday,not weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",329,4841,5170,Winter_not holiday
+2012-12-11,Winter,2012,December,not holiday,tuesday,not weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",282,5219,5501,Winter_not holiday
+2012-12-12,Winter,2012,December,not holiday,wednesday,not weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",310,5009,5319,Winter_not holiday
+2012-12-13,Winter,2012,December,not holiday,thursday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",425,5107,5532,Winter_not holiday
+2012-12-14,Winter,2012,December,not holiday,friday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",429,5182,5611,Winter_not holiday
+2012-12-15,Winter,2012,December,not holiday,saturday,weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",767,4280,5047,Winter_not holiday
+2012-12-16,Winter,2012,December,not holiday,sunday,weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",538,3248,3786,Winter_not holiday
+2012-12-17,Winter,2012,December,not holiday,monday,not weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",212,4373,4585,Winter_not holiday
+2012-12-18,Winter,2012,December,not holiday,tuesday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",433,5124,5557,Winter_not holiday
+2012-12-19,Winter,2012,December,not holiday,wednesday,not weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",333,4934,5267,Winter_not holiday
+2012-12-20,Winter,2012,December,not holiday,thursday,not weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",314,3814,4128,Winter_not holiday
+2012-12-21,Spring,2012,December,not holiday,friday,not weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",221,3402,3623,Spring_not holiday
+2012-12-22,Spring,2012,December,not holiday,saturday,weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",205,1544,1749,Spring_not holiday
+2012-12-23,Spring,2012,December,not holiday,sunday,weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",408,1379,1787,Spring_not holiday
+2012-12-24,Spring,2012,December,not holiday,monday,not weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",174,746,920,Spring_not holiday
+2012-12-25,Spring,2012,December,holiday,tuesday,weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",440,573,1013,Spring_holiday
+2012-12-26,Spring,2012,December,not holiday,wednesday,not weekend,"Light Snow, Light Rain + Thunderstorm + Scattered clouds, Light Rain + Scattered clouds",9,432,441,Spring_not holiday
+2012-12-27,Spring,2012,December,not holiday,thursday,not weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",247,1867,2114,Spring_not holiday
+2012-12-28,Spring,2012,December,not holiday,friday,not weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",644,2451,3095,Spring_not holiday
+2012-12-29,Spring,2012,December,not holiday,saturday,weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",159,1182,1341,Spring_not holiday
+2012-12-30,Spring,2012,December,not holiday,sunday,weekend,"Clear, Few clouds, Partly cloudy, Partly cloudy",364,1432,1796,Spring_not holiday
+2012-12-31,Spring,2012,December,not holiday,monday,not weekend,"Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",439,2290,2729,Spring_not holiday
